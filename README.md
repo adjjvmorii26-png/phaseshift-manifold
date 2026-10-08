@@ -19,7 +19,7 @@ phaseshift-manifold/
 ├── quantum_condensate/    # Superposition states
 │   ├── condensate_core.js
 │   └── superposition.tbl
-├── solid_core/            # Rigid logic structures
+├── solid_logic/           # Rigid logic structures
 ├── liquid_memory/         # Flowing memory streams
 ├── gas_drift/             # Diffuse information
 ├── ixpansion-bridges/     # 3 bridge stones
